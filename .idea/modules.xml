@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/TimeSeriesClassification.iml" filepath="$PROJECT_DIR$/.idea/TimeSeriesClassification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../springmvc_heima/springmvc_day01_01_start/springmvc_day01_01_start/springmvc_day01_01_start.iml" filepath="$PROJECT_DIR$/../../springmvc_heima/springmvc_day01_01_start/springmvc_day01_01_start/springmvc_day01_01_start.iml" />
+    </modules>
+  </component>
+</project>

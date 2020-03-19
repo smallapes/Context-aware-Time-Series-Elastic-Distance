@@ -1,0 +1,1543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/development/ExperimentsClean.java" line="49" />
+    <bookmark url="file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/Efficient1NN.java" line="585" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13aca4e0-2fa1-47c7-8950-9d0714fc4857" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/../../springmvc_heima/springmvc_day01_01_start/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2023703327">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="58" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.31" value="3" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.34" value="8" />
+          <entry key="project.open.time.35" value="6" />
+          <entry key="project.open.time.36" value="5" />
+          <entry key="project.open.time.37" value="5" />
+          <entry key="project.open.time.38" value="3" />
+          <entry key="project.open.time.39" value="3" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.40" value="2" />
+          <entry key="project.open.time.41" value="6" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.52" value="1" />
+          <entry key="project.open.time.53" value="1" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.open.time.60" value="1" />
+          <entry key="project.open.time.7" value="4" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="4" />
+          <entry key="project.opened" value="72" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="UCR_2018_CDTW1NN_LOG" value="1" />
+          <entry key="csv" value="3" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="437" />
+          <entry key="properties" value="73" />
+          <entry key="txt" value="298" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="437" />
+          <entry key="PLAIN_TEXT" value="302" />
+          <entry key="Properties" value="73" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="1" />
+          <entry key="java" value="25022" />
+          <entry key="properties" value="27" />
+          <entry key="txt" value="54" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="25022" />
+          <entry key="PLAIN_TEXT" value="55" />
+          <entry key="Properties" value="27" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ElasticDistance/CDTW1NN.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="466" column="22" lean-forward="true" selection-start-line="466" selection-start-column="22" selection-end-line="466" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ElasticDistance/Efficient1NN.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4823">
+              <caret line="81" column="23" lean-forward="true" selection-start-line="81" selection-start-column="23" selection-end-line="81" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ElasticDistance/TSCConfigures.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/in/dataForJavaClsStep.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/development/ExperimentsClean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="200" column="32" selection-start-line="200" selection-start-column="32" selection-end-line="200" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Math.pow</find>
+      <find>next:</find>
+      <find>correctNew</find>
+      <find>correctNew:</find>
+      <find>isTra</find>
+      <find>3781.0</find>
+      <find>2997.0</find>
+      <find>3190.0</find>
+      <find>10.0</find>
+      <find>cv</find>
+      <find>if (cv)</find>
+      <find>acc</find>
+      <find>TrainT</find>
+      <find>TrainThis</find>
+      <find>Accuracy</find>
+      <find>next</find>
+      <find>checkPoin</find>
+      <find>accu</find>
+      <find>validate</find>
+      <find>after</find>
+      <find>startTest</find>
+      <find>newTI</find>
+      <find>x.get(0)</find>
+      <find>savePat</find>
+      <find>test</find>
+      <find>ExperimentsClean</find>
+      <find>ClassifierResults</find>
+      <find>res</find>
+      <find>D:\</find>
+      <find>D:</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Lp</replace>
+      <replace>new_point_1</replace>
+      <replace>x_1</replace>
+      <replace>x_2</replace>
+      <replace>new_point_2</replace>
+      <replace>new_point_0</replace>
+      <replace>y_0</replace>
+      <replace>y_1</replace>
+      <replace>y_2</replace>
+      <replace>x_0</replace>
+      <replace>res</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\javaprograms\TonyBagnall-time-series-classification\TimeSeriesClassification\src</dir>
+      <dir>D:\javaprograms\TonyBagnall-time-series-classification\TimeSeriesClassification</dir>
+    </dirStrings>
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SORT_ALPHABETICALLY" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/UCR_2018_CDTWCV1NNConv2_save.properties" />
+        <option value="$PROJECT_DIR$/UCR_2018_CDTWCV1NN_save.properties" />
+        <option value="$PROJECT_DIR$/UCR_2018_MSM1NN_save.properties" />
+        <option value="$PROJECT_DIR$/UCR_2018_CDTWCV1NN-copy.txt" />
+        <option value="$PROJECT_DIR$/UCR_2018_CDTWCV1NN.txt" />
+        <option value="$PROJECT_DIR$/src/tclTest.java" />
+        <option value="$PROJECT_DIR$/UCR_2018_CDTW1NN.txt" />
+        <option value="$PROJECT_DIR$/UCR_2018_CDTW1NN_save.properties" />
+        <option value="$PROJECT_DIR$/UCR_2018_CDTW1NNTraffic_save.properties" />
+        <option value="$PROJECT_DIR$/src/timeseriesweka/tcl/CSV2ARFF.java" />
+        <option value="$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/CDTW1NNTraffic.java" />
+        <option value="$PROJECT_DIR$/src/TSCConfigures.java" />
+        <option value="$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/Efficient1NNTraffic.java" />
+        <option value="$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/traffic/DDTW1NN.java" />
+        <option value="$PROJECT_DIR$/UCR_2018_MSM1NNTraffic_save.properties" />
+        <option value="$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/traffic/WDTW1NNTraffic.java" />
+        <option value="$PROJECT_DIR$/UCR_2018_WDTW1NNTraffic_save.properties" />
+        <option value="$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/traffic/CDTW1NNTraffic.java" />
+        <option value="$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/traffic/MSM1NNTraffic.java" />
+        <option value="$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/traffic/CMSM1NN.java" />
+        <option value="$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/traffic/Efficient1NNTraffic.java" />
+        <option value="$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/traffic/CMSMTraffic1NN.java" />
+        <option value="$PROJECT_DIR$/UCR_2018_DTW1NN.txt" />
+        <option value="$PROJECT_DIR$/UCR_2018_DDTW1NN.txt" />
+        <option value="$PROJECT_DIR$/UCR_2018_WDTW1NN.txt" />
+        <option value="$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/ERP1NN.java" />
+        <option value="$PROJECT_DIR$/UCR_2018_ERP1NN.txt" />
+        <option value="$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/TWE1NN.java" />
+        <option value="$PROJECT_DIR$/src/timeseriesweka/examples/ClassificationExamples.java" />
+        <option value="$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/CDTWCV1NN.java" />
+        <option value="$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/CMSM1NN.java" />
+        <option value="$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/traffic/CMSM1NNFast.java" />
+        <option value="$PROJECT_DIR$/UCR_2018_CMSM1NN.txt" />
+        <option value="$PROJECT_DIR$/UCR_2018_CMSM1NNFast.txt" />
+        <option value="$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/CMSM1NNFast100.java" />
+        <option value="$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/MSM1NN.java" />
+        <option value="$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/CMSM1NNFast100.java" />
+        <option value="$PROJECT_DIR$/UCR_2018_CMSM1NNFast100.txt" />
+        <option value="$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/CMSM1NNFastSavePath.java" />
+        <option value="$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/CDTW1NN.java" />
+        <option value="$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/DTW1NN.java" />
+        <option value="$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/WDTW1NN.java" />
+        <option value="$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/DDTW1NN.java" />
+        <option value="$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/MSM1NNFast.java" />
+        <option value="$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/CMSM1NNFast.java" />
+        <option value="$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/Efficient1NN.java" />
+        <option value="$PROJECT_DIR$/src/elastic_ensemble/CMSM1NNFast.java" />
+        <option value="$PROJECT_DIR$/src/ElasticDistance/Efficient1NN.java" />
+        <option value="$PROJECT_DIR$/src/ElasticDistance/CDTW1NN.java" />
+        <option value="$PROJECT_DIR$/src/ElasticDistance/TSCConfigures.java" />
+        <option value="$PROJECT_DIR$/tcl_test.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\maven-3.6.2\repository" />
+        <option name="mavenHome" value="F:/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springmvc_day01_01_start Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springmvc_day01_01_start Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-315" />
+    <option name="y" value="342" />
+    <option name="width" value="1752" />
+    <option name="height" value="1107" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TimeSeriesClassification" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TimeSeriesClassification" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TimeSeriesClassification" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TimeSeriesClassification" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584608859581" />
+    <property name="last_opened_file_path" value="D:/jar/mysql-connector-java-8.0.16.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\javaprograms\TonyBagnall-time-series-classification\TimeSeriesClassification" />
+      <recent name="D:\javaprograms\TonyBagnall-time-series-classification\TimeSeriesClassification\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="timeseriesweka.classifiers.ensembles.elastic_ensemble" />
+      <recent name="timeseriesweka.classifiers.ensembles" />
+      <recent name="timeseriesweka.classifiers.ensembles.elastic_ensemble.traffic" />
+      <recent name="timeseriesweka.classifiers" />
+      <recent name="timeseriesweka.elastic_distance_measures" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaprograms\TonyBagnall-time-series-classification\TimeSeriesClassification\in" />
+      <recent name="D:\javaprograms\TonyBagnall-time-series-classification\TimeSeriesClassification\src" />
+      <recent name="D:\javaprograms\TonyBagnall-time-series-classification\TimeSeriesClassification" />
+      <recent name="D:\javaprograms\TonyBagnall-time-series-classification\TimeSeriesClassification\src\timeseriesweka\classifiers\ensembles\elastic_ensemble" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CDTW1NN">
+    <configuration name="CDTW1NN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ElasticDistance.CDTW1NN" />
+      <module name="TimeSeriesClassification" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ElasticDistance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CMSM1NNFast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timeseriesweka.classifiers.ensembles.elastic_ensemble.CMSM1NNFast" />
+      <module name="TimeSeriesClassification" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="timeseriesweka.classifiers.ensembles.elastic_ensemble.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CMSM1NNFastSavePath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timeseriesweka.classifiers.ensembles.elastic_ensemble.CMSM1NNFastSavePath" />
+      <module name="TimeSeriesClassification" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="timeseriesweka.classifiers.ensembles.elastic_ensemble.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MSM1NN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timeseriesweka.classifiers.ensembles.elastic_ensemble.MSM1NN" />
+      <module name="TimeSeriesClassification" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="timeseriesweka.classifiers.ensembles.elastic_ensemble.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MSM1NNFast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timeseriesweka.classifiers.ensembles.elastic_ensemble.MSM1NNFast" />
+      <module name="TimeSeriesClassification" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="timeseriesweka.classifiers.ensembles.elastic_ensemble.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MSM1NN" />
+      <item itemvalue="Application.CMSM1NNFast" />
+      <item itemvalue="Application.CMSM1NNFastSavePath" />
+      <item itemvalue="Application.MSM1NNFast" />
+      <item itemvalue="Application.CDTW1NN" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CDTW1NN" />
+        <item itemvalue="Application.CMSM1NNFastSavePath" />
+        <item itemvalue="Application.MSM1NN" />
+        <item itemvalue="Application.MSM1NNFast" />
+        <item itemvalue="Application.CMSM1NNFast" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13aca4e0-2fa1-47c7-8950-9d0714fc4857" name="Default Changelist" comment="" />
+      <created>1572847485482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572847485482</updated>
+      <workItem from="1572847487576" duration="17524000" />
+      <workItem from="1572933833072" duration="7010000" />
+      <workItem from="1572950888353" duration="100000" />
+      <workItem from="1572958648750" duration="1847000" />
+      <workItem from="1572961622089" duration="479000" />
+      <workItem from="1572964605956" duration="842000" />
+      <workItem from="1573052469254" duration="2060000" />
+      <workItem from="1573126574763" duration="608000" />
+      <workItem from="1573132950662" duration="7459000" />
+      <workItem from="1573465802853" duration="252000" />
+      <workItem from="1573470520387" duration="3728000" />
+      <workItem from="1573493706059" duration="143000" />
+      <workItem from="1573493872972" duration="401000" />
+      <workItem from="1573567991631" duration="684000" />
+      <workItem from="1573658646599" duration="1977000" />
+      <workItem from="1573740790277" duration="6359000" />
+      <workItem from="1573747628573" duration="5324000" />
+      <workItem from="1574500884206" duration="109915000" />
+      <workItem from="1575022382067" duration="39114000" />
+      <workItem from="1575207154079" duration="13794000" />
+      <workItem from="1575304112100" duration="4434000" />
+      <workItem from="1575376280879" duration="4310000" />
+      <workItem from="1575843542538" duration="475000" />
+      <workItem from="1575844048434" duration="4477000" />
+      <workItem from="1575851052776" duration="2653000" />
+      <workItem from="1575922316805" duration="8680000" />
+      <workItem from="1575959352579" duration="1583000" />
+      <workItem from="1576010487078" duration="3242000" />
+      <workItem from="1576035901810" duration="594000" />
+      <workItem from="1576107190624" duration="745000" />
+      <workItem from="1576109911223" duration="5635000" />
+      <workItem from="1576218729028" duration="598000" />
+      <workItem from="1576302726126" duration="5814000" />
+      <workItem from="1576494718615" duration="9133000" />
+      <workItem from="1576509218590" duration="597000" />
+      <workItem from="1576587761970" duration="891000" />
+      <workItem from="1577594292514" duration="8991000" />
+      <workItem from="1577625606942" duration="3504000" />
+      <workItem from="1577685982972" duration="5239000" />
+      <workItem from="1578396944637" duration="3425000" />
+      <workItem from="1578489020670" duration="1244000" />
+      <workItem from="1578499182107" duration="725000" />
+      <workItem from="1578635560369" duration="598000" />
+      <workItem from="1578639186305" duration="15198000" />
+      <workItem from="1578732626267" duration="1207000" />
+      <workItem from="1579965039523" duration="166000" />
+      <workItem from="1580384795756" duration="599000" />
+      <workItem from="1580627727271" duration="58520000" />
+      <workItem from="1581172750207" duration="7625000" />
+      <workItem from="1581229094832" duration="3049000" />
+      <workItem from="1581566034199" duration="5350000" />
+      <workItem from="1581604207228" duration="2624000" />
+      <workItem from="1582109757709" duration="2475000" />
+      <workItem from="1582370304060" duration="34142000" />
+      <workItem from="1582519220383" duration="84000" />
+      <workItem from="1582523534180" duration="24134000" />
+      <workItem from="1582623501302" duration="4673000" />
+      <workItem from="1583033369873" duration="1195000" />
+      <workItem from="1583119557666" duration="1651000" />
+      <workItem from="1583202306920" duration="9834000" />
+      <workItem from="1583580006810" duration="2067000" />
+      <workItem from="1583764011811" duration="8019000" />
+      <workItem from="1583816162548" duration="12461000" />
+      <workItem from="1584032125325" duration="63000" />
+      <workItem from="1584032219809" duration="14010000" />
+      <workItem from="1584330793361" duration="2278000" />
+      <workItem from="1584375560355" duration="3194000" />
+      <workItem from="1584603125926" duration="2909000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CSV2ARFF_transferTraffic - 2020.02.24 at 14h 06m 12s.xml">
+      <configuration name="CSV2ARFF.transferTraffic" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CSV2ARFF_transferTraffic - 2020.02.24 at 14h 13m 53s.xml">
+      <configuration name="CSV2ARFF.transferTraffic" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CSV2ARFF_transferTraffic - 2020.02.24 at 14h 18m 49s.xml">
+      <configuration name="CSV2ARFF.transferTraffic" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CSV2ARFF_transferTraffic - 2020.02.24 at 14h 20m 07s.xml">
+      <configuration name="CSV2ARFF.transferTraffic" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CSV2ARFF_transferTraffic - 2020.02.24 at 14h 22m 11s.xml">
+      <configuration name="CSV2ARFF.transferTraffic" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CSV2ARFF_transferTraffic - 2020.02.24 at 14h 41m 26s.xml">
+      <configuration name="CSV2ARFF.transferTraffic" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CSV2ARFF_transferTraffic - 2020.02.24 at 14h 44m 00s.xml">
+      <configuration name="CSV2ARFF.transferTraffic" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CSV2ARFF_transferTraffic - 2020.02.24 at 15h 31m 30s.xml">
+      <configuration name="CSV2ARFF.transferTraffic" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CSV2ARFF_transferTraffic - 2020.02.24 at 15h 33m 55s.xml">
+      <configuration name="CSV2ARFF.transferTraffic" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CSV2ARFF_transferTraffic - 2020.02.24 at 15h 37m 56s.xml">
+      <configuration name="CSV2ARFF.transferTraffic" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="514734000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1229" height="735" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.5081127" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3283582" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5038429" side_tool="true" weight="0.54063016" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3897181" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49615714" visible="true" weight="0.35323384" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.38142622" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.65008295" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" weight="0.5323383" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.24935952" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.37308347" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32877883" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.052092228" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3283582" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5038429" side_tool="true" weight="0.54063016" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3897181" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49615714" visible="true" weight="0.31840795" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.38142622" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.65008295" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" weight="0.5323383" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.24935952" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.37308347" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32877883" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/examples/ClassificationExamples.java</url>
+          <line>221</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/examples/ClassificationExamples.java</url>
+          <line>287</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/elastic_distance_measures/ERPDistance.java</url>
+          <line>162</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/Efficient1NN.java</url>
+          <line>1229</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/Efficient1NN.java</url>
+          <line>1279</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/Efficient1NN.java</url>
+          <line>763</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/CERPNoCV1NN.java</url>
+          <line>226</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/CERPCVStep1NN.java</url>
+          <line>228</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/MSM1NN.java</url>
+          <line>378</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/CMSM1NN.java</url>
+          <line>477</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/CWDTW1NN.java</url>
+          <line>208</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/CDTWCV1NN.java</url>
+          <line>295</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/cote/HiveCotePostProcessed.java</url>
+          <line>163</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/cote/HiveCotePostProcessed.java</url>
+          <line>176</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/cote/HiveCotePostProcessed.java</url>
+          <line>146</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/HiveCote.java</url>
+          <line>448</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/development/ExperimentsClean.java</url>
+          <line>293</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/cote/HiveCotePostProcessed.java</url>
+          <line>144</line>
+          <properties />
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/HiveCote.java</url>
+          <line>78</line>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/HiveCote.java</url>
+          <line>118</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/HiveCote.java</url>
+          <line>123</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/HiveCote.java</url>
+          <line>119</line>
+          <properties />
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/HiveCote.java</url>
+          <line>671</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/HiveCote.java</url>
+          <line>684</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/vector_classifiers/CAWPE.java</url>
+          <line>425</line>
+          <properties />
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/filters/shapelet_transforms/ShapeletTransform.java</url>
+          <line>461</line>
+          <properties />
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/filters/shapelet_transforms/ShapeletTransform.java</url>
+          <line>475</line>
+          <properties />
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/filters/shapelet_transforms/ShapeletTransform.java</url>
+          <line>485</line>
+          <properties />
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/filters/shapelet_transforms/ShapeletTransform.java</url>
+          <line>482</line>
+          <properties />
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/HiveCote.java</url>
+          <line>373</line>
+          <properties />
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/HiveCote.java</url>
+          <line>392</line>
+          <properties />
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/HiveCote.java</url>
+          <line>263</line>
+          <properties />
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/vector_classifiers/CAWPE.java</url>
+          <line>955</line>
+          <properties />
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/filters/shapelet_transforms/ShapeletTransform.java</url>
+          <line>468</line>
+          <properties />
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/filters/shapelet_transforms/ShapeletTransform.java</url>
+          <line>536</line>
+          <properties />
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ElasticEnsemble.java</url>
+          <line>334</line>
+          <properties />
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ElasticEnsemble.java</url>
+          <line>597</line>
+          <properties />
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ElasticEnsemble.java</url>
+          <line>443</line>
+          <properties />
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ElasticEnsemble.java</url>
+          <line>459</line>
+          <properties />
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ElasticEnsemble.java</url>
+          <line>460</line>
+          <properties />
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/DDTW1NN.java</url>
+          <line>413</line>
+          <properties />
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/DDTW1NN.java</url>
+          <line>347</line>
+          <properties />
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/WDTW1NN.java</url>
+          <line>307</line>
+          <properties />
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/Efficient1NN.java</url>
+          <line>631</line>
+          <properties />
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/Efficient1NN.java</url>
+          <line>551</line>
+          <properties />
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/Efficient1NN.java</url>
+          <line>425</line>
+          <properties />
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/CDTWCV1NN.java</url>
+          <line>333</line>
+          <properties />
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/CDTWCV1NN.java</url>
+          <line>323</line>
+          <properties />
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/CDTWCV1NNStep.java</url>
+          <line>336</line>
+          <properties />
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/ERP1NN.java</url>
+          <line>252</line>
+          <properties />
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/HiveCote.java</url>
+          <line>171</line>
+          <properties />
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/HiveCote.java</url>
+          <line>172</line>
+          <properties />
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/CDTWCV1NNConvBi.java</url>
+          <line>110</line>
+          <properties />
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/Efficient1NN.java</url>
+          <line>1045</line>
+          <properties />
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/Efficient1NN.java</url>
+          <line>227</line>
+          <properties />
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/Efficient1NN.java</url>
+          <line>1048</line>
+          <properties />
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/tclTest.java</url>
+          <line>86</line>
+          <properties />
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/tclTest.java</url>
+          <line>81</line>
+          <properties />
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/tcl/CSV2ARFF.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/tcl/CSV2ARFF.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/Efficient1NN.java</url>
+          <line>127</line>
+          <properties />
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/Efficient1NN.java</url>
+          <line>1526</line>
+          <properties />
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/traffic/DDTW1NN.java</url>
+          <line>132</line>
+          <properties />
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/traffic/DDTW1NN.java</url>
+          <line>208</line>
+          <properties />
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/traffic/WDTW1NNTraffic.java</url>
+          <line>127</line>
+          <properties />
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/traffic/Efficient1NNTraffic.java</url>
+          <line>927</line>
+          <properties />
+          <option name="timeStamp" value="214" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/Efficient1NN.java</url>
+          <line>1668</line>
+          <properties />
+          <option name="timeStamp" value="216" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/Efficient1NN.java</url>
+          <line>1537</line>
+          <properties />
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/CMSM1NNFastSavePath.java</url>
+          <line>373</line>
+          <properties />
+          <option name="timeStamp" value="218" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/development/ExperimentsClean.java</url>
+          <line>469</line>
+          <properties class="development.ExperimentsClean" method="singleClassifierAndFoldTrainTestSplit">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/tclTest.java</url>
+          <line>297</line>
+          <properties class="tclTest">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/Efficient1NN.java</url>
+          <line>1732</line>
+          <properties class="timeseriesweka.classifiers.ensembles.elastic_ensemble.Efficient1NN.CheckPoint" method="toString">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="matrixD[61]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/UCR_2018_DDTW1NN_save.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UCR_2018_DTW1NN_save.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/traffic/WDTW1NNTraffic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2506">
+          <caret line="123" column="9" selection-start-line="123" selection-start-column="9" selection-end-line="123" selection-end-column="9" />
+          <folding>
+            <element signature="docComment;class#WDTW1NNTraffic#0" />
+            <element signature="e#835#974#0" />
+            <element signature="e#980#1078#0" />
+            <element signature="e#1088#1412#0" />
+            <element signature="e#3985#4068#0" />
+            <element signature="e#8808#11043#0" />
+            <element signature="e#11049#11244#0" />
+            <element signature="e#11254#13655#0" />
+            <element signature="e#13661#13839#0" />
+            <element signature="e#13845#13893#0" />
+            <element signature="e#14114#14132#0" />
+            <element signature="e#14114#14353#0" />
+            <element signature="e#14359#14377#0" />
+            <element signature="e#14359#14610#0" />
+            <element signature="e#14616#14634#0" />
+            <element signature="e#14616#14889#0" />
+            <element signature="e#15831#15984#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UCR_2018_WDTW1NNTraffic_save.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UCR_2018_WDTW1NNTraffic.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/ERP1NN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="227" column="1" lean-forward="true" selection-start-line="227" selection-start-column="1" selection-end-line="238" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/timeseriesweka/examples/ClassificationExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="123" column="22" selection-start-line="123" selection-start-column="22" selection-end-line="123" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UCR_2018_DTW1NN.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UCR_2018_DDTW1NN.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UCR_2018_ERP1NN.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/TWE1NN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31">
+          <caret line="291" column="22" selection-start-line="291" selection-start-column="22" selection-end-line="291" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UCR_2018_CDTWCV1NN.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UCR_2018_WDTW1NN.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="56" selection-start-column="37" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UCR_2018_MSM1NN.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="48" selection-start-column="48" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UCR_2018_TWE1NN.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UCR_2018_MSM1NN_save.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/traffic/CMSM1NNFast.java" />
+    <entry file="file://$PROJECT_DIR$/UCR_2018_CDTW1NN.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UCR_2018_CMSM1NNFast.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UCR_2018_CMSM1NNFast100-copy.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UCR_2018_CMSM1NN.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/DDTW1NN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="419" column="9" lean-forward="true" selection-start-line="419" selection-start-column="9" selection-end-line="419" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/CDTW1NN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="473" column="9" lean-forward="true" selection-start-line="473" selection-start-column="9" selection-end-line="473" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UCR_2018_TWE1NN_save.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UCR_2018_CMSM1NNFast100.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/WDTW1NN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="304" column="24" selection-start-line="304" selection-start-column="24" selection-end-line="304" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/CMSM1NN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4644">
+          <caret line="500" column="28" selection-start-line="500" selection-start-column="28" selection-end-line="500" selection-end-column="28" />
+          <folding>
+            <element signature="docComment;class#CMSM1NN#0" />
+            <element signature="method#CMSM1NN#0;class#CMSM1NN#0" />
+            <element signature="method#CMSM1NN#1;class#CMSM1NN#0" />
+            <element signature="method#distance#0;class#CMSM1NN#0" />
+            <element signature="method#calcualteCost#0;class#CMSM1NN#0" />
+            <element signature="method#getCapabilities#0;class#CMSM1NN#0" />
+            <element signature="method#runComparison#0;class#CMSM1NN#0" />
+            <element signature="docComment;method#UCR2018#0;class#CMSM1NN#0" />
+            <element signature="method#UCR2018#0;class#CMSM1NN#0" />
+            <element signature="docComment;method#UCR2018SavePathAll#0;class#CMSM1NN#0" />
+            <element signature="method#setParamsFromParamId#0;class#CMSM1NN#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/CMSM1NNFast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11421">
+          <caret line="532" column="33" selection-start-line="532" selection-start-column="33" selection-end-line="532" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/CDTWCV1NN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1107">
+          <caret line="98" column="80" selection-start-line="98" selection-start-column="80" selection-end-line="98" selection-end-column="80" />
+          <folding>
+            <element signature="docComment;class#CDTWCV1NN#0" />
+            <element signature="docComment;method#CDTWCV1NN#0;class#CDTWCV1NN#0" />
+            <element signature="method#CDTWCV1NN#0;class#CDTWCV1NN#0" />
+            <element signature="docComment;method#CDTWCV1NN#1;class#CDTWCV1NN#0" />
+            <element signature="method#CDTWCV1NN#1;class#CDTWCV1NN#0" />
+            <element signature="method#setWindow#0;class#CDTWCV1NN#0" />
+            <element signature="method#loocv#0;class#CDTWCV1NN#0" />
+            <element signature="method#loocv#1;class#CDTWCV1NN#0" />
+            <element signature="method#getWindowSize#0;class#CDTWCV1NN#0" />
+            <element signature="method#distance#0;class#CDTWCV1NN#0" />
+            <element signature="e#3138#3224#0" />
+            <element signature="e#3897#3953#0" />
+            <element signature="e#4811#4836#0" />
+            <element signature="method#distributionForInstance#0;class#CDTWCV1NN#0" />
+            <element signature="method#getCapabilities#0;class#CDTWCV1NN#0" />
+            <element signature="docComment;method#runComparison#0;class#CDTWCV1NN#0" />
+            <element signature="method#runComparison#0;class#CDTWCV1NN#0" />
+            <element signature="e#7988#8052#0" />
+            <element signature="e#8142#8180#0" />
+            <element signature="docComment;method#UCR2018#0;class#CDTWCV1NN#0" />
+            <element signature="method#UCR2018#0;class#CDTWCV1NN#0" />
+            <element signature="docComment;method#UCR2018Time#0;class#CDTWCV1NN#0" />
+            <element signature="method#UCR2018Time#0;class#CDTWCV1NN#0" />
+            <element signature="docComment;method#UCR2018StepAnalyze#0;class#CDTWCV1NN#0" />
+            <element signature="method#UCR2018StepAnalyze#0;class#CDTWCV1NN#0" />
+            <element signature="method#main#0;class#CDTWCV1NN#0" />
+            <element signature="e#11598#11616#0" />
+            <element signature="method#setParamsFromParamId#0;class#CDTWCV1NN#0" />
+            <element signature="e#12117#12151#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/DTW1NN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10935">
+          <caret line="415" selection-start-line="415" selection-end-line="417" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/Efficient1NN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="54" column="28" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
+          <folding>
+            <element signature="docComment;class#Efficient1NN#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/MSM1NN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2781">
+          <caret line="377" column="33" selection-start-line="377" selection-start-column="33" selection-end-line="377" selection-end-column="33" />
+          <folding>
+            <element signature="docComment;class#MSM1NN#0" />
+            <element signature="method#MSM1NN#0;class#MSM1NN#0" />
+            <element signature="method#MSM1NN#1;class#MSM1NN#0" />
+            <element signature="method#distance#0;class#MSM1NN#0" />
+            <element signature="e#2467#2503#0" />
+            <element signature="e#4986#5022#0" />
+            <element signature="e#5527#5543#0" />
+            <element signature="e#7328#7337#0" />
+            <element signature="method#calcualteCost#0;class#MSM1NN#0" />
+            <element signature="method#getCapabilities#0;class#MSM1NN#0" />
+            <element signature="method#runComparison#0;class#MSM1NN#0" />
+            <element signature="e#8137#8187#0" />
+            <element signature="docComment;method#UCR2018#0;class#MSM1NN#0" />
+            <element signature="docComment;method#UCR2018Time#0;class#MSM1NN#0" />
+            <element signature="method#UCR2018Time#0;class#MSM1NN#0" />
+            <element signature="method#UCR2018SavePathAll#0;class#MSM1NN#0" />
+            <element signature="e#11172#11202#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/MSM1NNFast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8937">
+          <caret line="437" column="9" selection-start-line="437" selection-start-column="9" selection-end-line="437" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UCR_2018_WDTW1NN_save.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/CMSM1NNFast100.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13338">
+          <caret line="494" column="26" selection-start-line="494" selection-start-column="26" selection-end-line="494" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/CMSM1NNFastSavePath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="529" column="9" selection-start-line="529" selection-start-column="9" selection-end-line="529" selection-end-column="9" />
+          <folding>
+            <element signature="docComment;method#UCR2018SavePathAll#0;class#CMSM1NNFastSavePath#0" />
+            <element signature="method#setParamsFromParamId#0;class#CMSM1NNFastSavePath#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/elastic_ensemble/CMSM1NNFastSavePath.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ElasticDistance/traffic/WDTW1NNTraffic.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ElasticDistance/traffic/Efficient1NNTraffic.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ElasticDistance/traffic/CMSMTraffic1NN.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/elastic_ensemble/ED1NN.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/elastic_ensemble/CDTWCV1NNConvBi.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ElasticDistance/WDTW1NN.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/elastic_ensemble/CMSM1NNFast.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/elastic_ensemble/ElasticEnsembleClusterDistributer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="84" column="58" selection-start-line="84" selection-start-column="58" selection-end-line="84" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ElasticDistance/CDTW1NN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="466" column="22" lean-forward="true" selection-start-line="466" selection-start-column="22" selection-end-line="466" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/development/ExperimentsClean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="200" column="32" selection-start-line="200" selection-start-column="32" selection-end-line="200" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ElasticDistance/Efficient1NN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4823">
+          <caret line="81" column="23" lean-forward="true" selection-start-line="81" selection-start-column="23" selection-end-line="81" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/in/dataForJavaClsStep.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tcl_test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ElasticDistance/TSCConfigures.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>TimeSeriesClassification</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
