@@ -15,4 +15,4 @@ http://www.timeseriesclassification.com/Downloads/Archives/Univariate2018_arff.z
 
 2. change "tscProbDir" in src/ElasticDistance/TSCConfigures.java to point to dataset path
 
-3. run the main function of elastic distance method class in src/ElasticDistance
+3. run the main function of each elastic distance method class in src/ElasticDistance
