@@ -5,7 +5,10 @@
     <bookmark url="file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/Efficient1NN.java" line="585" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13aca4e0-2fa1-47c7-8950-9d0714fc4857" name="Default Changelist" comment="" />
+    <list default="true" id="13aca4e0-2fa1-47c7-8950-9d0714fc4857" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ElasticDistance/LCSS1NN.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/../../springmvc_heima/springmvc_day01_01_start/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +59,8 @@
           <entry key="UCR_2018_CDTW1NN_LOG" value="1" />
           <entry key="csv" value="3" />
           <entry key="iml" value="1" />
-          <entry key="java" value="437" />
+          <entry key="java" value="447" />
+          <entry key="md" value="1" />
           <entry key="properties" value="73" />
           <entry key="txt" value="298" />
           <entry key="xml" value="2" />
@@ -65,7 +69,8 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="437" />
+          <entry key="JAVA" value="447" />
+          <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="302" />
           <entry key="Properties" value="73" />
           <entry key="XML" value="2" />
@@ -74,15 +79,17 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="java" value="25022" />
+          <entry key="java" value="25075" />
+          <entry key="md" value="247" />
           <entry key="properties" value="27" />
-          <entry key="txt" value="54" />
+          <entry key="txt" value="61" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="25022" />
-          <entry key="PLAIN_TEXT" value="55" />
+          <entry key="JAVA" value="25075" />
+          <entry key="Markdown" value="247" />
+          <entry key="PLAIN_TEXT" value="62" />
           <entry key="Properties" value="27" />
         </counts>
       </usages-collector>
@@ -91,22 +98,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ElasticDistance/CDTW1NN.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="466" column="22" lean-forward="true" selection-start-line="466" selection-start-column="22" selection-end-line="466" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ElasticDistance/Efficient1NN.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4823">
-              <caret line="81" column="23" lean-forward="true" selection-start-line="81" selection-start-column="23" selection-end-line="81" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret line="9" column="47" lean-forward="true" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -114,22 +112,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ElasticDistance/TSCConfigures.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/in/dataForJavaClsStep.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/development/ExperimentsClean.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="200" column="32" selection-start-line="200" selection-start-column="32" selection-end-line="200" selection-end-column="32" />
+            <state relative-caret-position="162">
+              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -194,22 +178,16 @@
       <dir>D:\javaprograms\TonyBagnall-time-series-classification\TimeSeriesClassification</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HierarchyBrowserManager">
     <option name="SORT_ALPHABETICALLY" value="true" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/UCR_2018_CDTWCV1NNConv2_save.properties" />
-        <option value="$PROJECT_DIR$/UCR_2018_CDTWCV1NN_save.properties" />
-        <option value="$PROJECT_DIR$/UCR_2018_MSM1NN_save.properties" />
-        <option value="$PROJECT_DIR$/UCR_2018_CDTWCV1NN-copy.txt" />
-        <option value="$PROJECT_DIR$/UCR_2018_CDTWCV1NN.txt" />
-        <option value="$PROJECT_DIR$/src/tclTest.java" />
-        <option value="$PROJECT_DIR$/UCR_2018_CDTW1NN.txt" />
-        <option value="$PROJECT_DIR$/UCR_2018_CDTW1NN_save.properties" />
-        <option value="$PROJECT_DIR$/UCR_2018_CDTW1NNTraffic_save.properties" />
-        <option value="$PROJECT_DIR$/src/timeseriesweka/tcl/CSV2ARFF.java" />
         <option value="$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/CDTW1NNTraffic.java" />
         <option value="$PROJECT_DIR$/src/TSCConfigures.java" />
         <option value="$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/Efficient1NNTraffic.java" />
@@ -248,9 +226,19 @@
         <option value="$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/Efficient1NN.java" />
         <option value="$PROJECT_DIR$/src/elastic_ensemble/CMSM1NNFast.java" />
         <option value="$PROJECT_DIR$/src/ElasticDistance/Efficient1NN.java" />
-        <option value="$PROJECT_DIR$/src/ElasticDistance/CDTW1NN.java" />
-        <option value="$PROJECT_DIR$/src/ElasticDistance/TSCConfigures.java" />
         <option value="$PROJECT_DIR$/tcl_test.txt" />
+        <option value="$PROJECT_DIR$/src/ElasticDistance/CDTW1NN.java" />
+        <option value="$PROJECT_DIR$/src/ElasticDistance/CDTWCV1NN.java" />
+        <option value="$PROJECT_DIR$/src/ElasticDistance/CMSM1NN.java" />
+        <option value="$PROJECT_DIR$/src/ElasticDistance/DDTW1NN.java" />
+        <option value="$PROJECT_DIR$/src/ElasticDistance/DTW1NN.java" />
+        <option value="$PROJECT_DIR$/src/ElasticDistance/ERP1NN.java" />
+        <option value="$PROJECT_DIR$/src/ElasticDistance/LCSS1NN.java" />
+        <option value="$PROJECT_DIR$/src/ElasticDistance/MSM1NN.java" />
+        <option value="$PROJECT_DIR$/src/ElasticDistance/TWE1NN.java" />
+        <option value="$PROJECT_DIR$/src/ElasticDistance/WDTW1NN.java" />
+        <option value="$PROJECT_DIR$/src/ElasticDistance/TSCConfigures.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -285,12 +273,13 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-315" />
     <option name="y" value="342" />
     <option name="width" value="1752" />
     <option name="height" value="1107" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -307,7 +296,18 @@
             <path>
               <item name="TimeSeriesClassification" type="b2602c69:ProjectViewProjectNode" />
               <item name="TimeSeriesClassification" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TimeSeriesClassification" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TimeSeriesClassification" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TimeSeriesClassification" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TimeSeriesClassification" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ElasticDistance" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -322,13 +322,14 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584608859581" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584616868481" />
     <property name="last_opened_file_path" value="D:/jar/mysql-connector-java-8.0.16.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
@@ -522,8 +523,30 @@
       <workItem from="1584032219809" duration="14010000" />
       <workItem from="1584330793361" duration="2278000" />
       <workItem from="1584375560355" duration="3194000" />
-      <workItem from="1584603125926" duration="2909000" />
+      <workItem from="1584603125926" duration="5771000" />
     </task>
+    <task id="LOCAL-00001" summary="20/3/19">
+      <created>1584612875893</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584612875893</updated>
+    </task>
+    <task id="LOCAL-00002" summary="20/3/19">
+      <created>1584613780431</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584613780431</updated>
+    </task>
+    <task id="LOCAL-00003" summary="20/3/19">
+      <created>1584613937618</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584613937618</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -559,7 +582,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="514734000" />
+    <option name="totallyTimeSpent" value="517596000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -572,22 +595,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1229" height="735" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.5081127" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.39197266" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.3283582" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5038429" side_tool="true" weight="0.54063016" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50469685" side_tool="true" weight="0.3538206" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.3897181" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49615714" visible="true" weight="0.35323384" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49530315" visible="true" weight="0.3538206" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.38142622" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.65008295" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
@@ -603,42 +625,16 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.37308347" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.32877883" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Designer" order="0" />
-      <window_info id="UI Designer" order="1" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.052092228" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3283582" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5038429" side_tool="true" weight="0.54063016" />
-      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" weight="0.3897181" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49615714" visible="true" weight="0.31840795" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.38142622" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.65008295" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="11" weight="0.5323383" />
-      <window_info anchor="right" id="Capture Analysis" order="0" />
-      <window_info anchor="right" id="Theme Preview" order="1" />
-      <window_info anchor="right" id="Database" order="2" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.24935952" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.37308347" />
-      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32877883" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="20/3/19" />
+    <option name="LAST_COMMIT_MESSAGE" value="20/3/19" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1057,6 +1053,12 @@
           <properties />
           <option name="timeStamp" value="218" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ElasticDistance/TWE1NN.java</url>
+          <line>282</line>
+          <properties />
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/development/ExperimentsClean.java</url>
           <line>469</line>
@@ -1097,67 +1099,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/UCR_2018_DDTW1NN_save.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UCR_2018_DTW1NN_save.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/traffic/WDTW1NNTraffic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2506">
-          <caret line="123" column="9" selection-start-line="123" selection-start-column="9" selection-end-line="123" selection-end-column="9" />
-          <folding>
-            <element signature="docComment;class#WDTW1NNTraffic#0" />
-            <element signature="e#835#974#0" />
-            <element signature="e#980#1078#0" />
-            <element signature="e#1088#1412#0" />
-            <element signature="e#3985#4068#0" />
-            <element signature="e#8808#11043#0" />
-            <element signature="e#11049#11244#0" />
-            <element signature="e#11254#13655#0" />
-            <element signature="e#13661#13839#0" />
-            <element signature="e#13845#13893#0" />
-            <element signature="e#14114#14132#0" />
-            <element signature="e#14114#14353#0" />
-            <element signature="e#14359#14377#0" />
-            <element signature="e#14359#14610#0" />
-            <element signature="e#14616#14634#0" />
-            <element signature="e#14616#14889#0" />
-            <element signature="e#15831#15984#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UCR_2018_WDTW1NNTraffic_save.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UCR_2018_WDTW1NNTraffic.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/ERP1NN.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
-          <caret line="227" column="1" lean-forward="true" selection-start-line="227" selection-start-column="1" selection-end-line="238" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/timeseriesweka/examples/ClassificationExamples.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="123" column="22" selection-start-line="123" selection-start-column="22" selection-end-line="123" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UCR_2018_DTW1NN.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UCR_2018_DDTW1NN.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UCR_2018_ERP1NN.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/timeseriesweka/classifiers/ensembles/elastic_ensemble/TWE1NN.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-31">
@@ -1402,9 +1343,6 @@
     <entry file="file://$PROJECT_DIR$/src/elastic_ensemble/CDTWCV1NNConvBi.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ElasticDistance/WDTW1NN.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/elastic_ensemble/CMSM1NNFast.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1412,13 +1350,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="84" column="58" selection-start-line="84" selection-start-column="58" selection-end-line="84" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ElasticDistance/CDTW1NN.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="466" column="22" lean-forward="true" selection-start-line="466" selection-start-column="22" selection-end-line="466" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -1432,7 +1363,7 @@
     <entry file="file://$PROJECT_DIR$/src/ElasticDistance/Efficient1NN.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4823">
-          <caret line="81" column="23" lean-forward="true" selection-start-line="81" selection-start-column="23" selection-end-line="81" selection-end-column="23" />
+          <caret line="81" column="23" selection-start-line="81" selection-start-column="23" selection-end-line="81" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1445,10 +1376,210 @@
     <entry file="file://$PROJECT_DIR$/tcl_test.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/CDTW1NN.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ElasticDistance/CDTW1NN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="466" column="28" lean-forward="true" selection-start-line="466" selection-start-column="28" selection-end-line="466" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ElasticDistance/LCSS1NN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2213">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ElasticDistance/WDTW1NN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="304" column="22" lean-forward="true" selection-start-line="304" selection-start-column="22" selection-end-line="304" selection-end-column="22" />
+          <folding>
+            <element signature="docComment;class#WDTW1NN#0" />
+            <element signature="method#WDTW1NN#0;class#WDTW1NN#0" />
+            <element signature="method#WDTW1NN#1;class#WDTW1NN#0" />
+            <element signature="method#initWeights#0;class#WDTW1NN#0" />
+            <element signature="method#distance#0;class#WDTW1NN#0" />
+            <element signature="e#1254#1340#0" />
+            <element signature="method#distanceSavePath#0;class#WDTW1NN#0" />
+            <element signature="e#3564#3650#0" />
+            <element signature="e#4274#4338#0" />
+            <element signature="e#5495#5524#0" />
+            <element signature="method#getCapabilities#0;class#WDTW1NN#0" />
+            <element signature="method#runComparison#0;class#WDTW1NN#0" />
+            <element signature="e#6112#6150#0" />
+            <element signature="method#buildClassifier#0;class#WDTW1NN#0" />
+            <element signature="docComment;method#UCR2018#0;class#WDTW1NN#0" />
+            <element signature="method#UCR2018#0;class#WDTW1NN#0" />
+            <element signature="e#8638#8658#0" />
+            <element signature="docComment;method#UCR2018Time#0;class#WDTW1NN#0" />
+            <element signature="method#UCR2018Time#0;class#WDTW1NN#0" />
+            <element signature="e#8898#8918#0" />
+            <element signature="docComment;method#UCR2018SavePath#0;class#WDTW1NN#0" />
+            <element signature="method#UCR2018SavePath#0;class#WDTW1NN#0" />
+            <element signature="docComment;method#UCR2018SavePathTheory#0;class#WDTW1NN#0" />
+            <element signature="method#UCR2018SavePathTheory#0;class#WDTW1NN#0" />
+            <element signature="docComment;method#UCR2018SavePathAll#0;class#WDTW1NN#0" />
+            <element signature="method#UCR2018SavePathAll#0;class#WDTW1NN#0" />
+            <element signature="e#10026#10171#0" />
+            <element signature="method#setParamsFromParamId#0;class#WDTW1NN#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ElasticDistance/CMSM1NN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="508" column="22" lean-forward="true" selection-start-line="508" selection-start-column="22" selection-end-line="508" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ElasticDistance/DTW1NN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="410" column="22" lean-forward="true" selection-start-line="410" selection-start-column="22" selection-end-line="410" selection-end-column="22" />
+          <folding>
+            <element signature="docComment;class#DTW1NN#0" />
+            <element signature="docComment;method#DTW1NN#0;class#DTW1NN#0" />
+            <element signature="method#DTW1NN#0;class#DTW1NN#0" />
+            <element signature="docComment;method#DTW1NN#1;class#DTW1NN#0" />
+            <element signature="method#DTW1NN#1;class#DTW1NN#0" />
+            <element signature="method#setWindow#0;class#DTW1NN#0" />
+            <element signature="method#loocv#0;class#DTW1NN#0" />
+            <element signature="method#loocv#1;class#DTW1NN#0" />
+            <element signature="method#getWindowSize#0;class#DTW1NN#0" />
+            <element signature="e#2534#2607#0" />
+            <element signature="method#distance#0;class#DTW1NN#0" />
+            <element signature="e#3054#3140#0" />
+            <element signature="e#3738#3794#0" />
+            <element signature="e#4407#4433#0" />
+            <element signature="docComment;method#distanceSavePath#0;class#DTW1NN#0" />
+            <element signature="method#distanceSavePath#0;class#DTW1NN#0" />
+            <element signature="e#6391#6477#0" />
+            <element signature="e#7077#7133#0" />
+            <element signature="e#7728#7753#0" />
+            <element signature="e#9107#9130#0" />
+            <element signature="method#distributionForInstance#0;class#DTW1NN#0" />
+            <element signature="method#getCapabilities#0;class#DTW1NN#0" />
+            <element signature="method#runComparison#0;class#DTW1NN#0" />
+            <element signature="e#9965#10029#0" />
+            <element signature="e#10123#10161#0" />
+            <element signature="docComment;method#UCR2018#0;class#DTW1NN#0" />
+            <element signature="method#UCR2018#0;class#DTW1NN#0" />
+            <element signature="e#12476#12496#0" />
+            <element signature="docComment;method#UCR2018Time#0;class#DTW1NN#0" />
+            <element signature="method#UCR2018Time#0;class#DTW1NN#0" />
+            <element signature="e#12742#12762#0" />
+            <element signature="docComment;method#UCR2018Resample100#0;class#DTW1NN#0" />
+            <element signature="method#UCR2018Resample100#0;class#DTW1NN#0" />
+            <element signature="e#13095#13115#0" />
+            <element signature="docComment;method#UCR2018SavePath#0;class#DTW1NN#0" />
+            <element signature="method#UCR2018SavePath#0;class#DTW1NN#0" />
+            <element signature="docComment;method#UCR2018SavePathTheory#0;class#DTW1NN#0" />
+            <element signature="method#UCR2018SavePathTheory#0;class#DTW1NN#0" />
+            <element signature="docComment;method#UCR2018SavePathAll#0;class#DTW1NN#0" />
+            <element signature="method#UCR2018SavePathAll#0;class#DTW1NN#0" />
+            <element signature="method#setParamsFromParamId#0;class#DTW1NN#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ElasticDistance/CDTWCV1NN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="332" column="22" lean-forward="true" selection-start-line="332" selection-start-column="14" selection-end-line="332" selection-end-column="25" />
+          <folding>
+            <element signature="docComment;class#CDTWCV1NN#0" />
+            <element signature="docComment;method#CDTWCV1NN#0;class#CDTWCV1NN#0" />
+            <element signature="method#CDTWCV1NN#0;class#CDTWCV1NN#0" />
+            <element signature="docComment;method#CDTWCV1NN#1;class#CDTWCV1NN#0" />
+            <element signature="method#CDTWCV1NN#1;class#CDTWCV1NN#0" />
+            <element signature="method#setWindow#0;class#CDTWCV1NN#0" />
+            <element signature="method#loocv#0;class#CDTWCV1NN#0" />
+            <element signature="method#loocv#1;class#CDTWCV1NN#0" />
+            <element signature="method#getWindowSize#0;class#CDTWCV1NN#0" />
+            <element signature="method#distance#0;class#CDTWCV1NN#0" />
+            <element signature="e#3100#3186#0" />
+            <element signature="e#3859#3915#0" />
+            <element signature="e#4773#4798#0" />
+            <element signature="method#distributionForInstance#0;class#CDTWCV1NN#0" />
+            <element signature="method#getCapabilities#0;class#CDTWCV1NN#0" />
+            <element signature="docComment;method#runComparison#0;class#CDTWCV1NN#0" />
+            <element signature="method#runComparison#0;class#CDTWCV1NN#0" />
+            <element signature="e#7950#8014#0" />
+            <element signature="e#8104#8142#0" />
+            <element signature="docComment;method#UCR2018#0;class#CDTWCV1NN#0" />
+            <element signature="method#UCR2018#0;class#CDTWCV1NN#0" />
+            <element signature="docComment;method#UCR2018Time#0;class#CDTWCV1NN#0" />
+            <element signature="method#UCR2018Time#0;class#CDTWCV1NN#0" />
+            <element signature="docComment;method#UCR2018StepAnalyze#0;class#CDTWCV1NN#0" />
+            <element signature="method#UCR2018StepAnalyze#0;class#CDTWCV1NN#0" />
+            <element signature="method#setParamsFromParamId#0;class#CDTWCV1NN#0" />
+            <element signature="e#12079#12113#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ElasticDistance/DDTW1NN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="414" column="22" lean-forward="true" selection-start-line="414" selection-start-column="22" selection-end-line="414" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ElasticDistance/ERP1NN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="244" column="9" lean-forward="true" selection-start-line="244" selection-start-column="9" selection-end-line="244" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ElasticDistance/MSM1NN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="376" column="24" lean-forward="true" selection-start-line="376" selection-start-column="24" selection-end-line="376" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ElasticDistance/TWE1NN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="300" column="5" lean-forward="true" selection-start-line="300" selection-start-column="5" selection-end-line="300" selection-end-column="5" />
+          <folding>
+            <element signature="docComment;class#TWE1NN#0" />
+            <element signature="method#TWE1NN#0;class#TWE1NN#0" />
+            <element signature="method#TWE1NN#1;class#TWE1NN#0" />
+            <element signature="method#distance#0;class#TWE1NN#0" />
+            <element signature="e#1735#1822#0" />
+            <element signature="e#3902#3993#0" />
+            <element signature="method#getCapabilities#0;class#TWE1NN#0" />
+            <element signature="method#runComparison#0;class#TWE1NN#0" />
+            <element signature="e#7192#7242#0" />
+            <element signature="docComment;method#UCR2018Time#0;class#TWE1NN#0" />
+            <element signature="e#9601#9621#0" />
+            <element signature="e#9846#9866#0" />
+            <element signature="method#setParamsFromParamId#0;class#TWE1NN#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret line="9" column="47" lean-forward="true" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ElasticDistance/TSCConfigures.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="162">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="35" />
         </state>
       </provider>
     </entry>
