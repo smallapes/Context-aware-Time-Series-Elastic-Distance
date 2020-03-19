@@ -411,12 +411,12 @@ public class DDTW1NN extends Efficient1NN {
     public static void main(String[] args) throws Exception{
         for(int i = 0; i < 1; i++){
             //runComparison();
-//            UCR2018();
+            UCR2018();
 //            UCR2018Time();
 //            UCR2018Resample100();
 //            UCR2018SavePath();
 //            UCR2018SavePathTheory();
-            UCR2018SavePathAll();
+//            UCR2018SavePathAll();
         }
     }
 

@@ -287,10 +287,17 @@ public class TWE1NN extends Efficient1NN {
         dtwNew.saveTrainTime =true;
         dtwNew.UCR2018Cls(cv);
     }
-    
+    public static void UCR2018(){
+        boolean cv = true;
+        Efficient1NN dtwNew = new TWE1NN();
+        //dtwNew.turnOnCV();
+        //this.cparamId = 10;
+        dtwNew.UCR2018Cls(cv);
+    }
       
     public static void main(String[] args) throws Exception{
-        UCR2018Time();
+        UCR2018();
+//        UCR2018Time();
     }
 
     @Override

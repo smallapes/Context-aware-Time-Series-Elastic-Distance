@@ -329,8 +329,8 @@ public class CDTWCV1NN extends Efficient1NN {
     public static void main(String[] args) throws Exception{
         for(int i = 0; i < 1; i++){
             //runComparison();
-//            UCR2018();
-            UCR2018Time();
+            UCR2018();
+//            UCR2018Time();
 //            UCR2018StepAnalyze();
         }
     }

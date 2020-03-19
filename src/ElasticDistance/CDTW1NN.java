@@ -468,7 +468,7 @@ public class CDTW1NN extends Efficient1NN {
 //            UCR2018Resample100();
 //            UCR2018SavePath();
 //            UCR2018SavePathTheory();
-            UCR2018SavePathAll();
+//            UCR2018SavePathAll();
     }
 
     @Override

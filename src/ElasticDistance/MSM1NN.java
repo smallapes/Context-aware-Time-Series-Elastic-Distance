@@ -373,9 +373,9 @@ public class MSM1NN extends Efficient1NN {
 //        
         for(int i = 0; i < 1; i++){
 //            runComparison();
-//              UCR2018();
+              UCR2018();
 //              UCR2018Time();
-            UCR2018SavePathAll();
+//            UCR2018SavePathAll();
         }
     }
 
